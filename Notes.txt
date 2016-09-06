@@ -1,0 +1,4 @@
+Those notebooks were made during the "Algorithmic Machine Learning" at Eurecom, in 2016.
+As they had to be made in a very short time, most of them are incomplete. 
+But they still show what I've learned during this course.
+I made these with Achille Salaün, another Eurecom student.
